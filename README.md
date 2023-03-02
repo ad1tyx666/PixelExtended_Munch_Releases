@@ -12,7 +12,7 @@
 5. fastboot reboot recovery
 6. Click on "Factory Reset" on Recovery because you are changing rom
 7. Click on "Apply Update"
-8. Type "adb sideload lineage-20.0-xxxx-GAPPS-UNOFFICIAL-munch.zip" in you cli
+8. Type "adb sideload PixelExtended-xxxxxxx-xxxx.zip" in you cli
 9. now reboot
 
  ## Instructions to flash using twrp/ofox -
@@ -26,7 +26,7 @@
 1. adb reboot fastboot
 2. fastboot reboot recovery
 3. Click on "Apply Update"
-4. Type "adb sideload lineage-20.0-xxxx-GAPPS-UNOFFICIAL-munch.zip" in you cli
+4. Type "adb sideload PixelExtended-xxxxxxx-xxxx.zip" in you cli
 5. Now reboot
 
 ## Downloads -
